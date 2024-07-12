@@ -1,0 +1,1 @@
+tags=['Chroma', 'GoogleGenerativeAIEmbeddings'] vectorstore=<langchain_community.vectorstores.chroma.Chroma object at 0x11f6ebd60> search_kwargs={'k': 5}
